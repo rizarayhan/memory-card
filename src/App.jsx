@@ -1,4 +1,4 @@
-import Card from "./components/CArd";
+import Card from "./components/Card";
 import GameHeader from "./components/GameHeader";
 import WinMessage from "./components/WinMessage";
 import { useGameLogic } from "./hooks/useGameLogic";
